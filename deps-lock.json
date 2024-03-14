@@ -26,9 +26,16 @@
     {
       "lib": "io.github.inferenceql/inferenceql.inference",
       "url": "https://github.com/inferenceql/inferenceql.inference.git",
+      "rev": "c3cef474ba964a37fc2e5ff667055f5b77e12c45",
+      "git-dir": "https/github.com/inferenceql/inferenceql.inference",
+      "hash": "sha256-gjVmfbcAEeb0uHJTOUrFasDhZY+c4wI8M5W+itJynz4="
+    },
+    {
+      "lib": "io.github.inferenceql/inferenceql.inference",
+      "url": "https://github.com/inferenceql/inferenceql.inference.git",
       "rev": "40e77dedf680b7936ce988b66186a86f5c4db6a5",
       "git-dir": "https/github.com/inferenceql/inferenceql.inference",
-      "hash": "sha256-GlcGgWVVxyuP1oEGWdV+lBM11vgy1jUJOhkQzCFRTqk="
+      "hash": "sha256-UtH6AbOhOXzD0hhIYJRrS8k2NQwPj3ZzZp3HNUvevME="
     },
     {
       "lib": "io.github.probcomp/metaprob",
@@ -1668,6 +1675,16 @@
       "mvn-path": "org/clojure/core.memoize/1.0.253/core.memoize-1.0.253.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-hML6t6Mso8HkDEGm7Mm9U26UezBYDne41dwjKjSSXqw="
+    },
+    {
+      "mvn-path": "org/clojure/core.memoize/1.0.257/core.memoize-1.0.257.jar",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "hash": "sha256-mg6RgW4hp3SY7+3r1HrUvcL7+X+dvEm8nZWU4gEkbpY="
+    },
+    {
+      "mvn-path": "org/clojure/core.memoize/1.0.257/core.memoize-1.0.257.pom",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "hash": "sha256-3QQaWFudj1eN30s82rhS8/XdKajjNl4d1ehftl4/c9w="
     },
     {
       "mvn-path": "org/clojure/core.rrb-vector/0.0.11/core.rrb-vector-0.0.11.jar",
