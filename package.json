@@ -1,4 +1,4 @@
- {
+{
    "name": "inferenceql.query",
    "version": "1.0.0",
    "description": "![tests](https://github.com/OpenIQL/inferenceql.query/workflows/tests/badge.svg) ![linter](https://github.com/OpenIQL/inferenceql.query/workflows/linter/badge.svg)",
@@ -25,5 +25,6 @@
      "shadow-cljs": "^2.27.5"
    },
    "dependencies": {
+     "memoizee": "^0.4.15"
    }
  }
